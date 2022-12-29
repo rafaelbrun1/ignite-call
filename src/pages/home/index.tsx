@@ -13,9 +13,8 @@ export default function Home() {
           Conecte seu calendário e permita que as pessoas marquem agendamentos
           no seu tempo livre.
         </Text>
-    
-    <ClaimUsernameForm />
-      
+
+        <ClaimUsernameForm />
       </Hero>
 
       <Preview>
